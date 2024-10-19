@@ -15,5 +15,6 @@ public class Day9 {
         int n = sc.nextInt();
         int count = getCount(n);
         System.out.println(count);
+        sc.close();
     }
 }
