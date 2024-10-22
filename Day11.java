@@ -12,6 +12,7 @@ public class Day11 {
         int num = sc.nextInt();
         for(int i=0;i<num;i++){
             System.out.print(fibonacci(i) +" ");
-        } 
+        }
+        sc.close(); 
     }
 }
