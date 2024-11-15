@@ -19,6 +19,7 @@ Talent
 Output
 
 Not a Palindrome   */
+
 import java.util.Scanner;
 
 public class Day33 {
