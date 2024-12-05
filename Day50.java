@@ -1,4 +1,5 @@
-/* Day 50 coding Statement : Given an integer array of size N. Write Program to find sum of positive square elements in the array.
+/* 
+Day 50 coding Statement : Given an integer array of size N. Write Program to find sum of positive square elements in the array.
 
 Sample input 1 :
 
@@ -22,7 +23,9 @@ Sample output 2 :
 
 Explanation :
 
-(1 + 4 + 9 + 16) = 30  */
+(1 + 4 + 9 + 16) = 30  
+
+*/
 
 import java.util.Scanner;
 

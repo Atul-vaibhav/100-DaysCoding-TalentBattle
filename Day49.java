@@ -1,4 +1,6 @@
-/* Day 49 coding Statement : Given 2 integer arrays X and Y of same size. 
+/* 
+
+Day 49 coding Statement : Given 2 integer arrays X and Y of same size. 
 Consider both arrays as vectors and print the minimum scalar product (Dot product) of 2 vectors.
 
 Sample input 1 :
@@ -31,7 +33,9 @@ Sample output 2 :
 
 Explanation :
 
-(-1*-8 + -2*-7 + -3*6 + -4*5) = -17 */
+(-1*-8 + -2*-7 + -3*6 + -4*5) = -17 
+
+*/
 
 import java.util.Scanner;
 import java.util.Arrays;
